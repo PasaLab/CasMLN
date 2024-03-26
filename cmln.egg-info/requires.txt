@@ -1,0 +1,8 @@
+prettytable
+gensim
+tensorboard
+scikit-learn
+tabulate
+matplotlib
+jupyter
+jupyterlab
