@@ -26,7 +26,7 @@ pip install -e .
 
 ## Datasets
 
-The folder 'cmln/data' contains all processed datasets.
+All the processed datasets we used in the paper can be downloaded at [Baidu Yun](https://pan.baidu.com/s/1ubOZw6n9dtm4TDSHec9bzg?pwd=lmrb) (password:lmrb). Put datasets in the folder 'cmln/data' to run experimments.
 
 ## Run scripts
 
