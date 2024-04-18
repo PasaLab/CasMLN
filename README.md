@@ -1,10 +1,8 @@
 # CasMLN
-<h1 align="center">Multi-level Learning on Temporal Heterogeneous Graphs with
-Large Language Models (CMLN)</h1>
+<h1 align="center">LLM-enhanced Cascaded Multi-level Learning on Temporal Heterogeneous Graphs (CasMLN)</h1>
 
 
-This is the code associated with the paper "Multi-level Learning on Temporal Heterogeneous Graphs with
-Large Language Models" accepted by SIGIR 2024.  Our code references [DHGAS](https://github.com/wondergo2017/DHGAS). Thanks for their great contributions!
+This is the code associated with the paper "LLM-enhanced Cascaded Multi-level Learning on Temporal Heterogeneous Graphs" accepted by SIGIR 2024.  Our code references [DHGAS](https://github.com/wondergo2017/DHGAS). Thanks for their great contributions!
 
 
 
